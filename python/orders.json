@@ -1,0 +1,32 @@
+{"orders":
+	[
+		{
+		"nr":34587,
+		"title":"Learning Python",
+		"author":"Mark Lutz",
+		"amount":4,
+		"price":40.95
+		},
+		{
+		"nr":98762,
+		"title":"Programming Python",
+		"author":"Mark Lutz",
+		"amount":5,
+		"price":56.80
+		},
+		{
+		"nr":77225,
+		"title":"Head First Python",
+		"author":"Paul Berry",
+		"amount":3,
+		"price":24.99
+		},
+		{
+		"nr":88112,
+		"title":"Introduction in Python3",
+		"author":"Bernd Klein",
+		"amount":3,
+		"price":32.96
+		}
+	]
+}
